@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geo Fencing Demo</string>
+    <string name="google_maps_key">AIzaSyDJ6wbuMgKlCG4hCFlYBuKha4AeV7PaxSs</string>
+</resources>
